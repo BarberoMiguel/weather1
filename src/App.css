@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  color: black;
+  height: 100vh;
+  width: 100vw;
+  background-image: url(./assets/Back.gif);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#content {
+  padding: 100px;
+}

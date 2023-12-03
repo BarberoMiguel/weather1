@@ -1,0 +1,11 @@
+figure {
+    background-color: lightgreen;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px auto;
+    width: fit-content;
+}
+
+img {
+    height: 100px;
+}
